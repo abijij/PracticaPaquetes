@@ -1,2 +1,7 @@
-package org.abijij.app.hogar;public class Gato {
+package org.abijij.app.hogar;
+
+ class Gato {
+
+
+
 }
